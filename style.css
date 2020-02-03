@@ -1,0 +1,27 @@
+body {
+  background: #000000;
+  color: #00ff00;
+  font-family: monospace;
+  font-size: 17px;
+  font-family: "Lucida Console", Times, Monospace;
+}
+
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #000000;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #000000;
+}
