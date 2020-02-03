@@ -7,15 +7,15 @@
 int main()
 { 
 
-const std::string name = "Nazif Kyazim";
+const std::string name = "Here"; //Add name
 
-int age = 23;
+int age = 23; // Edit age
 
 
 
 //Contact Information
-const std::string phoneNumber = "+359898348063";
-const std::string email = "sidoaress1@gmail.com";
+const std::string phoneNumber = "Here"; //Add phone number
+const std::string email = "Here"; // Add Email
 
 
 
